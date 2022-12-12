@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "picture": "https://i.postimg.cc/g0LYP32H/project1.png",
+        "sampleOne": "https://i.postimg.cc/jStDh405/capture-sample-1.png",
+        "sampleTwo": "https://i.postimg.cc/Jhg7Sbgj/capture-sample-2.png",
+        "sampleThree": "https://i.postimg.cc/m2b4XXD0/capture-sample-3.png",
+        "sampleFour": "https://i.postimg.cc/D0693hZR/capture-sample-4.png",
+        "name": "Caputure Point",
+        "shortIntro": "This is a product Resale Related Website",
+        "sampleDetails": [
+            "To Build This Project I used React, React router, Tailwind, Mambaui, react hot toast, sweet alert2, React Photo View, Hyperui, React Responsive Carousel, React Loader Spinner, Firebase Etc.",
+            "Here You Find Some Features Based On User Variation.",
+            "A Seller Can Add Product , Advertise Product And Delete The Added Product.",
+            "A Buyer/User Can Add Book , Order And Report To Admin, Also Can Cancel The Order",
+            "This Site have Few Main Routes (Home, Dashboard, Blog, Login/Logout.",
+            "On Dashboard Few More Option Avaiable Based On User Type."
+        ],
+        "liveLink": "https://instant-camera-ff73c.web.app/",
+        "github": "https://github.com/Rakib01754/instant-camera-client"
+    },
+    {
+        "id": "2",
+        "picture": "https://i.postimg.cc/Qd9LBhZX/project2.png",
+        "sampleOne": "https://i.postimg.cc/Mp27JBk2/packers-sample-1.png",
+        "sampleTwo": "https://i.postimg.cc/gr9ZpCTq/packers-sample-2.png",
+        "sampleThree": "https://i.postimg.cc/JnD3W5h8/packers-sample-3.png",
+        "sampleFour": "https://i.postimg.cc/7ZKSGWGD/packers-sample-4.png",
+        "name": "Packers & Movers",
+        "shortIntro": "This is a Service Review Related Website",
+        "sampleDetails": [
+            "To Build This Project I used React, React router, Tailwind, Mambaui, react hot toast, sweet alert2, React Photo View, Hyperui, React Responsive Carousel, React Loader Spinner, Firebase Etc.",
+            "Here You Find Some Services about Loading Unloading, Commercial Movers, Long Distance Moving , Residential Movers, Corporate Relocation ,Storage Units And More.",
+            "This site have 6 Main Routes (Home, Services, Blog, Login,My Reviews, Add Service).",
+            "Two Dynamic Route For Sigle Service Details and Review Edit Page."
+        ],
+        "liveLink": "https://packers-movers-b086e.web.app/",
+        "github": "https://github.com/Rakib01754/packers-movers-public-server"
+    },
+    {
+        "id": "3",
+        "picture": "https://i.postimg.cc/4yNqXT1R/project3.png",
+        "sampleOne": "https://i.postimg.cc/50MTHyQZ/e-coding-sample-1.png",
+        "sampleTwo": "https://i.postimg.cc/ydVn4ZZY/e-coding-sample-2.png",
+        "sampleThree": "https://i.postimg.cc/hvY0dZ3f/e-coding-sample-3.png",
+        "sampleFour": "https://i.postimg.cc/N0tkmHb7/e-coding-sample-4.png",
+        "name": "E Coding",
+        "shortIntro": "This is a Programming Courses Related Website",
+        "sampleDetails": [
+            "To Build This Project I used React, React router, Tailwind, Mambaui, react hot toast, sweet alert2, React Icon, React to Pdf etc.",
+            "Here You Find Some Courses about Phython, Javascript, Php , Kotlin, C++, C#.",
+            "This site have 3 Main Routes (Home, Courses Faq, Blog, Login).",
+            "Two Dynamic Route For Sigle Course Details and Checkout Page."
+        ],
+        "liveLink": "https://e-coding-26299.web.app/",
+        "github": "https://github.com/Rakib01754/e-coding-client"
+    }
+]
